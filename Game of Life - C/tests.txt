@@ -1,0 +1,120 @@
+XX
+XX 
+
+ O O O O O O O
+ O O X X O O O
+ O O X X O O O
+ O O O O O O O
+ O O O O O O O
+
+Terminated due to repeat from last generation
+1 generation(s)
+
+OXO
+XOX
+XOX
+OXO
+
+ O O O X O O O
+ O O X O X O O
+ O O X O X O O
+ O O O X O O O
+ O O O O O O O
+
+Terminated due to repeat from last generation
+1 generation(s)
+
+X
+X
+X
+
+ O O O O O O O
+ O O O X O O O
+ O O O X O O O
+ O O O X O O O
+ O O O O O O O
+
+ O O O O O O O
+ O O O O O O O
+ O O X X X O O
+ O O O O O O O
+ O O O O O O O
+
+Terminated due to repeat from two generation ago
+2 generation(s)
+
+OXX
+XXO
+OXO
+
+ O O O O O O O
+ O O O X X O O
+ O O X X O O O
+ O O O X O O O
+ O O O O O O O
+
+ O O O O O O O
+ O O X X X O O
+ O O X O O O O
+ O O X X O O O
+ O O O O O O O
+
+ O O O X O O O
+ O O X X O O O
+ O X O O X O O
+ O O X X O O O
+ O O O O O O O
+
+ O O X X O O O
+ O O X X X O O
+ O X O O X O O
+ O O X X O O O
+ O O O O O O O
+
+ O O X O X O O
+ O X O O X O O
+ O X O O X O O
+ O O X X O O O
+ O O O O O O O
+
+ O O O X O O O
+ O X X O X X O
+ O X O O X O O
+ O O X X O O O
+ O O O O O O O
+
+ O O X X X O O
+ O X X O X X O
+ O X O O X X O
+ O O X X O O O
+ O O O O O O O
+
+ O X X O X X O
+ O X O O O O O
+ O X O O O X O
+ O O X X X O O
+ O O O O O O O
+
+Terminated due to completed number of generations
+8 generation(s)
+
+OOOOO
+OOOOO
+OOOOO
+OOOXO
+OOOOO
+
+ O O O O O O O
+ O O O O O O O
+ O O O O O O O
+ O O O O X O O
+ O O O O O O O
+
+ O O O O O O O
+ O O O O O O O
+ O O O O O O O
+ O O O O O O O
+ O O O O O O O
+
+Terminated due to all cells dead
+2 generation(s)
